@@ -1,11 +1,11 @@
 <?php
  
-$nome_cliente = $_POST['nome_cliente'];
-$endereco = $_POST['endereco_cliente'];
-$numero = $_POST['numero_endereco'];
-$cpf = $_POST['numero_cpf'];
-$cnpj = $_POST['numero_cnpj'];
-$telefone = $_POST['numero_telefone'];
+$nome_cliente = $_POST['nomecliente'];
+$endereco = $_POST['enderecocliente'];
+$numero = $_POST['numeroendereco'];
+$cpf = $_POST['numerocpf'];
+$cnpj = $_POST['numerocnpj'];
+$telefone = $_POST['numerotelefone'];
  
 include 'conexao.php';
  
